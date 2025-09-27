@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">btmanhinh</string>
+    <string name="back">Back</string>
+    <string name="register_title">Đăng ký tài khoản</string>
+    <string name="user_icon">User Icon</string>
+    <string name="create_new_account">Tạo tài khoản mới</string>
+    <string name="fill_info_to_create">Điền thông tin để tạo tài khoản</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="app_logo">Logo</string>
+    <string name="name_app_default">MyApp</string>
+    <string name="welcome_message">Chào mừng bạn đến với ứng dụng</string>
+    <string name="username">Tên đăng nhập</string>
+    <string name="pass">Mật khẩu</string>
+    <string name="login">Đăng nhập</string>
+    <string name="text">Chưa có tài khoản? Đăng ký ngay</string>
+    <string name="email">Email</string>
+    <string name="confirmpass">Xác nhận mật khẩu</string>
+    <string name="sdt">Số điện thoại</string>
+    <string name="register">Đăng ký</string>
+    <string name="check">Đã có tài khoản? Đăng nhập</string>
+    <string name="text2">Bằng việc đăng ký, bạn đồng ý với Điều khoản sử dụng và Chính sách bảo mật</string>
+
+</resources>
